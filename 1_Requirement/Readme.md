@@ -77,4 +77,15 @@ Libraries now send and retrieve data from databases to help better manage invent
 ## High Level Requirements
 |HLR|  Description | Status  |
 |-----| -----------| ---------|
+|HLR1|  C LANGUAGE | Implemented|
+|----|  -----------| ------------|
+|HLR2|   OS Windows | Implemented|
+|----|  ------------| -----------|
+|HLR3|   OS Linux   | Implemented|
+|----|  ------------| -----------|
+|HLR4|   Harddisk   | Implemented|
+|----|  ------------| -----------|
+|HLR5|  RAM 4Gb     | Implemented|
+|----|  ------------| -----------|
+
 

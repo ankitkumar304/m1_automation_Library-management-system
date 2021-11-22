@@ -76,6 +76,7 @@ The LMS leaks outward into new spaces, spaces which it didn’t inhabit before, 
 Libraries now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
 ## High Level Requirements
 |HLR|  Description | Status  |
+|----| ------------| --------|
 |HLR1|  C LANGUAGE | Implemented|
 |HLR2|   OS Windows | Implemented|
 |HLR3|   OS Linux   | Implemented|

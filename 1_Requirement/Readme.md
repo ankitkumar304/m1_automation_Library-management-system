@@ -82,6 +82,13 @@ Libraries now send and retrieve data from databases to help better manage invent
 |HLR3|   OS Linux   | Implemented|
 |HLR4|   Harddisk   | Implemented|
 |HLR5|  RAM 4Gb     | Implemented|
-
+## Low Level Requirements
+|LLR|  Description | status  |
+|----| ------------| --------|
+|LLR1|	ADD BOOKS	|IMPLEMENTED|
+|LLR2|	DELETE BOOKS|	IMPLEMENTED|
+|LLR3|	SEARCH BOOKS|	IMPLEMENTED|
+|LLR4|	ISSUE BOOKS	|IMPLEMENTED |
+|LLR5| VIEW BOOKS |	IMPLEMENTED |
 
 

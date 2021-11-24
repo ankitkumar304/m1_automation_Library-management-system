@@ -1,5 +1,7 @@
 # m1_automation_Library_management_system
 ## BADGES
+### CPP CHECK
+[![cppcheck-action](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/cppcheck.yml)
 ### CODE QUALITY
 ![code Quality score](https://api.codiga.io/project/29833/score/svg)
 ### CODE GRADE

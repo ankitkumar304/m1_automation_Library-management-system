@@ -12,6 +12,8 @@
 [![Linux C/C++ CI](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/Linux_c-cpp.yml)
 ## Windows C/C++ CI
 [![Windows C/C++ CI](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/windows_c-cpp.yml)
+## Unit testing
+[![Unit testing C/C++ CI](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/unity.yml/badge.svg)](https://github.com/ankitkumar304/m1_automation_Digital-clock/actions/workflows/unity.yml)
 # **LIBRARY MANAGEMENT SYSTEM**
 
 Library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
